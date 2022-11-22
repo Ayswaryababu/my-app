@@ -27,7 +27,7 @@ variable "tag_name" {
 }
 
 variable "security_group" {
-    default = "newsg"
+    default = "sgnew"
 }
 
 
